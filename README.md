@@ -1,6 +1,15 @@
 # aws-cdk-primer
 Sandbox to learn how to use AWS services, SDK, and CDK.
 
+## Installing AWS CLI for Linux x86 (64-bit)
+```bash
+curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip"
+unzip awscliv2.zip
+sudo ./aws/install
+```
+See [here](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
+for a more definitive guide.
+
 ## Cloud Development Kit (CDK)
 
 ### Prerequisites
